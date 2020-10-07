@@ -6,7 +6,7 @@ const palindromo = 'Ana';
             console.log('isto é um palindromo')
         }
         else {
-            console.log('isto não é um palindromo')
+            console.log('isto não é m palindromo')
         }
 
 
